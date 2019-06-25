@@ -46,7 +46,7 @@
 			</ul>
 		</div>
 	</div>
-	
+
 	<!-- Home -->
 
 	<div class="home">
@@ -62,7 +62,7 @@
 							<div class="col">
 								<div class="header_top_content d-flex flex-row align-items-center justify-content-start">
 									<div class="logo">
-										<a href="#">health<span>+</span></a>	
+										<a href="#">health<span>+</span></a>
 									</div>
 									<div class="header_top_extra d-flex flex-row align-items-center justify-content-start ml-auto">
 										<div class="header_top_nav">
@@ -111,7 +111,7 @@
 							</div>
 						</div>
 					</div>
-				</div>	
+				</div>
 			</div>
 		</header>
 
@@ -139,7 +139,7 @@
 				</div>
 			</div>
 			<div class="row icon_boxes_row">
-				
+
 				<!-- Icon Box -->
 				<div class="col-xl-4 col-lg-6">
 					<div class="icon_box">
@@ -218,7 +218,7 @@
 	<!-- Boxes -->
 
 	<div class="boxes d-flex flex-lg-row flex-column align-items-start justify-content-start">
-		
+
 		<!-- Box -->
 		<div class="box">
 			<div class="background_image" style="background-image:url(images/box_1.jpg)"></div>
@@ -393,7 +393,7 @@
 					<div class="col-lg-3 footer_col">
 						<div class="footer_about">
 							<div class="logo">
-								<a href="#">health<span>+</span></a>	
+								<a href="#">health<span>+</span></a>
 							</div>
 							<div class="footer_about_text">Lorem ipsum dolor sit amet, lorem maximus consectetur adipiscing elit. Donec malesuada lorem maximus mauris.</div>
 							<div class="footer_social">
@@ -412,7 +412,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 </div>
 						</div>
 					</div>
-					
+
 					<!-- Footer Contact -->
 					<div class="col-lg-5 footer_col">
 						<div class="footer_contact">

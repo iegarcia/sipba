@@ -141,16 +141,11 @@ require_once("head.php");
 								<div class="icon_box_icon"><i class="fas fa-shapes fa-3x" style="color:#32C69A"></i></div>
 								<div class="icon_box_title">Actividades complementarias</div>
 							</div>
-							<div class="icon_box_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lorem maximus malesuada lorem maximus mauris.</div>
+							<div class="icon_box_text">Actividades que incluyen espacios de información, métodos de relajación, liberación de estrés y talleres.</div>
 						</div>
 					</div>
 				</div>
-
-				<div class="row">
-					<div class="col">
-						<div class="button services_button ml-auto mr-auto"><a href="servicios.php"><span>read more</span><span>read more</span></a></div>
-					</div>
-				</div>
+				<div class="button services_button ml-auto mr-auto"><a href="servicios.php"><span>read more</span><span>read more</span></a></div>
 			</div>
 		</div>
 

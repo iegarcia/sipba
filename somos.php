@@ -14,6 +14,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col text-center">
+						<br>
 						<div class="section_title">Quienes Somos</div>
 					</div>
 				</div>

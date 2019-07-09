@@ -4,22 +4,6 @@
 <body>
 
 	<div class="super_container">
-		<div class="home">
-		<div class="home_container">
-			<div class="container">
-				<div class="row">
-					<div class="col">
-						<div class="home_content">
-							<div class="home_title">Services</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-
-
 	<div class="services">
 		<div class="container">
 			<div class="row">
@@ -27,18 +11,18 @@
 			</div>
 			<div class="row icon_boxes_row">
 			<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
-
 				<ol class="carousel-indicators">
 					<li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
 					<li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
 					<li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
 					<li data-target="#carouselExampleCaptions" data-slide-to="4"></li>
+					<li data-target="#carouselExampleCaptions" data-slide-to="5"></li>
 				</ol>
 				<div class="carousel-inner">
 					<div class="carousel-item active">
 						<img src="img/computadora.jpg" class="d-block w-100" alt="computadora.jpg">
 						<div class="carousel-caption d-none d-md-block">
-							<div class="servi" style="background-color:#0000009c;">
+							<div class="servi">
 							<h4>Psicopedagogía</h5>
 							<p class="text-light" >La psicopedagogía es una disciplina que partiendo de los aportes de la pedagogía  y la psicología interviene en los procesos de enseñanza aprendizaje, su campo de acción es amplio ,partiendo de las necesidades educativas de las personas.</p>
 						</div>
@@ -47,7 +31,7 @@
 					<div class="carousel-item">
 						<img src="img/consultorio.jpg" class="d-block w-100" alt="">
 						<div class="carousel-caption d-none d-md-block">
-							<div class="servi" style="background-color:#0000009c;">
+							<div class="servi">
 							<h4>Neuropsicología</h4>
 							<p class="text-light">Realizamos Evaluación Neuropsicológicas que es una descripción detallada y exacta de las funciones cognitivas y afectivas, una verificación del déficit funcional, la evaluación de los recursos personales del paciente para la rehabilitación y la valoración de los cambios afectivos y cognitivos durante el curso de la enfermedad.</p>
 						</div>
@@ -56,16 +40,25 @@
 					<div class="carousel-item">
 						<img src="img/psicologia.jpg" class="d-block w-100" alt="...">
 						<div class="carousel-caption d-none d-md-block">
-							<div class="servi" style="background-color:#0000009c;">
+							<div class="servi">
 							<h4>Psicoanálisis</h4>
-							<p class="text-light" >En tiempos donde todo es inmediato y efímero a veces cuesta poder darse tiempo a uno mismo, la práctica psicoanalítica promueve esa posibilidad.</p>
+							<p class="text-light">En tiempos donde todo es inmediato y efímero a veces cuesta poder darse tiempo a uno mismo, la práctica psicoanalítica promueve esa posibilidad.</p>
 						</div>
 						</div>
 					</div>
 					<div class="carousel-item">
 						<img src="img/relajacion.jpg" class="d-block w-100" alt="...">
 						<div class="carousel-caption d-none d-md-block">
-							<div class="servi" style="background-color:#0000009c;">
+							<div class="servi">
+							<h4>Relajacion - Meditación</h4>
+							<p class="text-light">La relajación y la meditación son técnicas que nos ayudan a transitar el camino hacia una re-conexión con nosotros mismos lo que conlleva innumerables beneficios.</p>
+						</div>
+						</div>
+					</div>
+					<div class="carousel-item">
+						<img src="img/complementarias.jpg" class="d-block w-100" alt="...">
+						<div class="carousel-caption d-none d-md-block">
+							<div class="servi">
 							<h4>Actividades Complementarias</h4>
 							<p class="text-light" >Actividades que incluyen espacios de información, métodos de relajación, liberación de estrés y talleres.</p>
 						</div>
@@ -158,13 +151,59 @@
 				<div class="card card-body">
 					<h6>Las evaluaciones neuropsicológicas tienen por objeto:</h6>
 					<ul>
-						<li><i class="far fa-check-square" style="color:green;"></i>&nbsp; Responder al motivo de consulta o derivación. (Registro de conducir, derivación médica, trastornos psiquiátricos, enfermedades neurológicas.)</li>
+						<li><i class="far fa-check-square text-success"></i>&nbsp; Responder al motivo de consulta o derivación. (Registro de conducir, derivación médica, trastornos psiquiátricos, enfermedades neurológicas.)</li>
 						<br>
-						<li><i class="far fa-check-square" style="color:green;"></i>&nbsp; Además de delinear el perfil de fortalezas y debilidades del paciente, (Memoria, atención, lenguaje, funciones ejecutivas) describimos el estilo de aprendizaje, funcional o no al contexto en el que se vive.</li>
+						<li><i class="far fa-check-square text-success"></i>&nbsp; Además de delinear el perfil de fortalezas y debilidades del paciente, (Memoria, atención, lenguaje, funciones ejecutivas) describimos el estilo de aprendizaje, funcional o no al contexto en el que se vive.</li>
 						<br>
-						<li><i class="far fa-check-square" style="color:green;"></i>&nbsp; No sólo describir aquello que sabemos desde el motivo inicial de consulta que genera malestar o desadaptación, sino haciendo foco en las fortalezas, para promover el desarrollo de aprendizajes funcionales a través de la promoción de habilidades regulatorias del comportamiento para prevenir el desarrollo de psicopatología</li>
+						<li><i class="far fa-check-square text-success"></i>&nbsp; No sólo describir aquello que sabemos desde el motivo inicial de consulta que genera malestar o desadaptación, sino haciendo foco en las fortalezas, para promover el desarrollo de aprendizajes funcionales a través de la promoción de habilidades regulatorias del comportamiento para prevenir el desarrollo de psicopatología</li>
 						<br>
 					</ul>
+				</div>
+			</div>
+			<br>
+			<p>
+				<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapse_diag" aria-expanded="false" aria-controls="collapse_diag">
+					Psicodiagnóstico –Evaluación Neurocognitiva
+				</button>
+			</p>
+			<div class="collapse" id="collapse_diag">
+				<div class="card card-body">
+					Una evaluación psicodiagnóstica consiste en el estudio de la personalidad, determinando las áreas afectivas, cognitiva y de relación y obtener así una visión completa del estado de salud mental y/o funcionamiento cerebral.
+					<p>
+						<br>
+						<button class="btn btn-primary btn-success" type="button" data-toggle="collapse" data-target="#collapse_diag_1" aria-expanded="false" aria-controls="collapse_diag_1">
+							¿Cómo se realiza?
+						</button>
+					</p>
+					<div class="collapse" id="collapse_diag_1">
+						<div class="card card-body">
+							Mediante una entrevista clínica y la administración del Test de acuerdo a lo que se precise evaluar.
+							¿Cuándo es necesario realizar un psicodiagnóstico?
+							Cuando lo solicita algún médico, juez o institución, como la escuela, o para tramitar Licencias de conducir, apto psicológico, para otorgación de certificado de discapacidad, para cursar determinadas carreras universitarias.  Para determinar los objetivos de un tratamiento psicológico. O cualquier persona que por decisión propia quiere conocer su estado de salud mental o funcionamiento cerebral.
+							En el caso de niños y adolescentes es muy útil cuando presentan problemas de aprendizaje porque permite de manera rápida y precisa saber cuáles son las áreas afectadas que requieren intervenciones terapéuticas precisas ya sea, tratamiento psicopedagógico, estimulación cognitiva y orientar claramente a los profesionales e instituciones educativas y/o de salud que trabajan con el niño y/o joven.
+						</div>
+					</div>
+					<p>
+						<button class="btn btn-primary btn-success" type="button" data-toggle="collapse" data-target="#collapse_diag_1" aria-expanded="false" aria-controls="collapse_diag_1">
+							¿Cuánto tiempo lleva?
+						</button>
+					</p>
+					<div class="collapse" id="collapse_diag_1">
+						<div class="card card-body">
+							En general se realiza una entrevista clínica y otra entrevista en la que se administra la batería de test lo que puede insumir entre hora y medio y dos horas. Luego del término de una semana se realiza la entrega del informe.
+						</div>
+					</div>
+					<p>
+						<button class="btn btn-primary btn-success" type="button" data-toggle="collapse" data-target="#collapse_diag_1" aria-expanded="false" aria-controls="collapse_diag_1">
+							¿Qué tipo de evaluaciones existen?
+						</button>
+					</p>
+					<div class="collapse" id="collapse_diag_1">
+						<div class="card card-body">
+							Test que evalúan la personalidad: Lo que permiten establecer una gama de características como la madurez emocional, como se defiende frente a los conflictos, el manejo de la ansiedad, como es su forma de relacionarse con los demás, áreas cognitivas. (Test de Rorschach, MMPI2, otros test proyectivos).
+							Test que evalúan funcionamiento intelectual y evalúan organicidad: Son todos aquellos test que de acuerdo a la edad de la persona que se evalúa permiten conocer la presencia o no de déficit cognitivos. Mide la memoria, la atención, las funciones ejecutivas, la percepción, el lenguaje. Es decir, el funcionamiento cerebral. Se obtiene también el CI (coeficiente intelectual). (escala de inteligencia de Weschler para adultos, ENI para niños, Diversas escalas para medir Ansiedad, Depresión, etc.)
+						</div>
+					</div>
 				</div>
 			</div>
 			<br>
@@ -176,13 +215,13 @@
 			<div class="collapse" id="collapsecomple">
 				<div class="card card-body">
 					<ul>
-						<li><i class="fas fa-child fa-2x" style="color:#f8e4cb;"></i>&nbsp;Talleres para niños y adultos</li>
+						<li><i class="fas fa-child fa-2x"></i>&nbsp;Talleres para niños y adultos</li>
 						<br>
-						<li><i class="fas fa-spa fa-2x" style="color:green;"></i>&nbsp;Masajes terapéuticos</li>
+						<li><i class="fas fa-spa fa-2x"></i>&nbsp;Masajes terapéuticos</li>
 						<br>
-						<li><i class="fas fa-heart fa-2x" style="color:red;"></i>&nbsp;Clases de Yoga, meditación, relajación, arteterapia</li>
+						<li><i class="fas fa-heart fa-2x"></i>&nbsp;Clases de Yoga, meditación, relajación, arteterapia</li>
 						<br>
-						<li><i class="fas fa-comments fa-2x" style="color:black;"></i>&nbsp;Charlas sobre distintas temáticas vinculados a la gestión emocional, prevención</li>
+						<li><i class="fas fa-comments fa-2x"></i>&nbsp;Charlas sobre distintas temáticas vinculados a la gestión emocional, prevención</li>
 					</ul>
 				</div>
 				<br>

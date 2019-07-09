@@ -1,28 +1,7 @@
-<?php
-require_once("head.php");
-?>
+<?php require_once("head.php"); ?>
 
 <body>
 	<div class="super_container">
-		<div class="home">
-			<div class="background_image" style="background-color:grey;"></div>
-
-			<div class="home_container">
-				<div class="container">
-					<div class="row">
-						<div class="col">
-							<div class="home_content">
-								<div class="home_title">Banner Principal (Opcional)</div>
-								<!-- <div class="home_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada lorem maximus mauris scelerisque, at rutrum nulla dictum. Ut ac ligula sapien.</div> -->
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<!-- Info Boxes -->
-
 		<div class="info">
 			<div class="services">
 				<div class="container">
@@ -30,29 +9,27 @@ require_once("head.php");
 						<div class="col text-center">
 							<div class="section_title">Como Trabajamos</div>
 							<br>
-							<h4>Nuestro modelo de trabajo se divide en tres etapas a culminar donde la primera realizara un filtrado que determinara el problema a afrontar en las siguientes etapas. Las mismas son: Entrevista, Evaluación, Estabilización.</h4>
+							<h5>Nuestro modelo de trabajo se divide en tres etapas a culminar donde la primera realizara un filtrado que determinara el problema a afrontar en las siguientes etapas. Las mismas son: Entrevista, Evaluación, Estabilización.</h5>
 						</div>
 					</div>
-					<div class="row icon_boxes_row">
 
-						<!-- Icon Box -->
+					<div class="row icon_boxes_row">
 						<div class="col-xl-4 col-lg-6">
 							<div class="icon_box">
 								<div class="icon_box_title_container d-flex flex-row align-items-center justify-content-start">
 									<div class="icon_box_icon">
-										<i class="fas fa-handshake fa-3x" style="color:#32C69A;"></i></div>
+										<i class="fas fa-handshake fa-3x icon_fonta"></i></div>
 									<div class="icon_box_title">Entrevista de Admisión</div>
 								</div>
 								<div class="icon_box_text">La primera entrevista de admisión estará a cargo de un miembro del equipo terapéutico que orientará y podrá o no estar a cargo del tratamiento debido a que la indicación podría ser otro profesional especializado en el problema.</div>
 							</div>
 						</div>
 
-						<!-- Icon Box -->
 						<div class="col-xl-4 col-lg-6">
 							<div class="icon_box">
 								<div class="icon_box_title_container d-flex flex-row align-items-center justify-content-start">
 									<div class="icon_box_icon">
-										<i class="fas fa-book-medical fa-3x" style="color:#32C69A;"></i>
+										<i class="fas fa-book-medical fa-3x icon_fonta"></i>
 									</div>
 									<div class="icon_box_title">Evaluación</div>
 								</div>
@@ -60,12 +37,11 @@ require_once("head.php");
 							</div>
 						</div>
 
-						<!-- Icon Box -->
 						<div class="col-xl-4 col-lg-6">
 							<div class="icon_box">
 								<div class="icon_box_title_container d-flex flex-row align-items-center justify-content-start">
 									<div class="icon_box_icon">
-										<i class="fas fa-balance-scale fa-3x" style="color:#32C69A;"></i>
+										<i class="fas fa-balance-scale fa-3x icon_fonta"></i>
 									</div>
 									<div class="icon_box_title">Estabilización</div>
 								</div>
@@ -77,8 +53,6 @@ require_once("head.php");
 			</div>
 		</div>
 
-		<!-- Services -->
-
 		<div class="services">
 			<div class="container">
 				<div class="row">
@@ -88,12 +62,11 @@ require_once("head.php");
 				</div>
 				<div class="row icon_boxes_row">
 
-					<!-- Icon Box -->
 					<div class="col-xl-4 col-lg-6">
 						<div class="icon_box">
 							<div class="icon_box_title_container d-flex flex-row align-items-center justify-content-start">
 								<div class="icon_box_icon">
-									<i class="fas fa-cogs fa-3x" style="color:#32C69A"></i>
+									<i class="fas fa-cogs fa-3x icon_fonta"></i>
 								</div>
 								<div class="icon_box_title">TTC</div>
 							</div>
@@ -101,54 +74,58 @@ require_once("head.php");
 						</div>
 					</div>
 
-					<!-- Icon Box -->
 					<div class="col-xl-4 col-lg-6">
 						<div class="icon_box">
 							<div class="icon_box_title_container d-flex flex-row align-items-center justify-content-start">
-								<div class="icon_box_icon"><i class="fas fa-couch fa-3x" style="color:#32C69A"></i></div>
+								<div class="icon_box_icon"><i class="fas fa-couch fa-3x icon_fonta"></i></div>
 								<div class="icon_box_title">Psicoanálisis</div>
 							</div>
 							<div class="icon_box_text">En tiempos donde todo es inmediato y efímero a veces cuesta poder darse tiempo a uno mismo, la práctica psicoanalítica promueve esa posibilidad.</div>
 						</div>
 					</div>
 
-					<!-- Icon Box -->
 					<div class="col-xl-4 col-lg-6">
 						<div class="icon_box">
 							<div class="icon_box_title_container d-flex flex-row align-items-center justify-content-start">
-								<div class="icon_box_icon"><i class="fas fa-clipboard-list fa-3x" style="color:#32C69A"></i></div>
+								<div class="icon_box_icon"><i class="fas fa-clipboard-list fa-3x icon_fonta"></i></div>
 								<div class="icon_box_title">Psicopedagogía:</div>
 							</div>
 							<div class="icon_box_text">La psicopedagogía es una disciplina que partiendo de los aportes de la pedagogía  y la psicología interviene en los procesos de enseñanza aprendizaje, su campo de acción es amplio ,partiendo de las necesidades educativas de las personas.</div>
 						</div>
 					</div>
 
-					<!-- Icon Box -->
 					<div class="col-xl-4 col-lg-6">
 						<div class="icon_box">
 							<div class="icon_box_title_container d-flex flex-row align-items-center justify-content-start">
-								<div class="icon_box_icon"><i class="fas fa-brain fa-3x" style="color:#32C69A"></i></div>
+								<div class="icon_box_icon"><i class="fas fa-brain fa-3x icon_fonta"></i></div>
 								<div class="icon_box_title">Neuropsicología</div>
 							</div>
 							<div class="icon_box_text">Realizamos Evaluación Neuropsicológicas que es una descripción detallada y exacta de las funciones cognitivas y afectivas, una verificación del déficit funcional, la evaluación de los recursos personales del paciente para la rehabilitación y la valoración de los cambios afectivos y cognitivos durante el curso de la enfermedad. </div>
 						</div>
 					</div>
 
-					<!-- Icon Box -->
 					<div class="col-xl-4 col-lg-6">
 						<div class="icon_box">
 							<div class="icon_box_title_container d-flex flex-row align-items-center justify-content-start">
-								<div class="icon_box_icon"><i class="fas fa-shapes fa-3x" style="color:#32C69A"></i></div>
+								<div class="icon_box_icon"><i class="fas fa-file-medical-alt fa-3x icon_fonta"></i></div>
+								<div class="icon_box_title">Psicodiagnóstico – Evaluación Neurocognitiva</div>
+							</div>
+							<div class="icon_box_text">Una evaluación psicodiagnóstica consiste en el estudio de la personalidad, determinando las áreas afectivas, cognitiva y de relación y obtener así una visión completa del estado de salud mental y/o funcionamiento cerebral.</div>
+						</div>
+					</div>
+
+					<div class="col-xl-4 col-lg-6">
+						<div class="icon_box">
+							<div class="icon_box_title_container d-flex flex-row align-items-center justify-content-start">
+								<div class="icon_box_icon"><i class="fas fa-shapes fa-3x icon_fonta"></i></div>
 								<div class="icon_box_title">Actividades complementarias</div>
 							</div>
 							<div class="icon_box_text">Actividades que incluyen espacios de información, métodos de relajación, liberación de estrés y talleres.</div>
 						</div>
 					</div>
 				</div>
-				<div class="button services_button ml-auto mr-auto"><a href="servicios.php"><span>read more</span><span>read more</span></a></div>
+				<div class="button services_button ml-auto mr-auto"><a href="servicios.php"><span>Leer Mas</span><span>Leer Mas</span></a></div>
 			</div>
 		</div>
 
-		<?php
-		require_once("footer.php");
-		?>
+<?php require_once("footer.php"); ?>

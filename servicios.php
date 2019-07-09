@@ -215,13 +215,13 @@
 			<div class="collapse" id="collapsecomple">
 				<div class="card card-body">
 					<ul>
-						<li><i class="fas fa-child fa-2x"></i>&nbsp;Talleres para niños y adultos</li>
+						<li><i class="fas fa-child fa-2x child"></i>&nbsp;Talleres para niños y adultos</li>
 						<br>
-						<li><i class="fas fa-spa fa-2x"></i>&nbsp;Masajes terapéuticos</li>
+						<li><i class="fas fa-spa fa-2x spa"></i>&nbsp;Masajes terapéuticos</li>
 						<br>
-						<li><i class="fas fa-heart fa-2x"></i>&nbsp;Clases de Yoga, meditación, relajación, arteterapia</li>
+						<li><i class="fas fa-heart fa-2x heart"></i>&nbsp;Clases de Yoga, meditación, relajación, arteterapia</li>
 						<br>
-						<li><i class="fas fa-comments fa-2x"></i>&nbsp;Charlas sobre distintas temáticas vinculados a la gestión emocional, prevención</li>
+						<li><i class="fas fa-comments fa-2x comments"></i>&nbsp;Charlas sobre distintas temáticas vinculados a la gestión emocional, prevención</li>
 					</ul>
 				</div>
 				<br>

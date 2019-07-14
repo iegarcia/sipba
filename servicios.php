@@ -4,7 +4,7 @@
 <body>
 
 	<div class="super_container">
-	<div class="services">
+	<div class="services mx-auto">
 		<div class="container">
 			<div class="row">
 				<div class="col text-center">
@@ -17,10 +17,11 @@
 					<li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
 					<li data-target="#carouselExampleCaptions" data-slide-to="4"></li>
 					<li data-target="#carouselExampleCaptions" data-slide-to="5"></li>
+					<li data-target="#carouselExampleCaptions" data-slide-to="6"></li>
 				</ol>
 				<div class="carousel-inner">
 					<div class="carousel-item active">
-						<img src="img/computadora.jpg" class="d-block w-100" alt="computadora.jpg">
+						<img src="img/computadora.jpg" class="d-block w-100" alt="imagen">
 						<div class="carousel-caption d-none d-md-block">
 							<div class="servi">
 							<h4>Psicopedagogía</h5>
@@ -29,7 +30,7 @@
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img src="img/consultorio.jpg" class="d-block w-100" alt="">
+						<img src="img/neuro.jpg" class="d-block w-100" alt="imagen">
 						<div class="carousel-caption d-none d-md-block">
 							<div class="servi">
 							<h4>Neuropsicología</h4>
@@ -38,7 +39,7 @@
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img src="img/psicologia.jpg" class="d-block w-100" alt="...">
+						<img src="img/psicologia.jpg" class="d-block w-100" alt="imagen">
 						<div class="carousel-caption d-none d-md-block">
 							<div class="servi">
 							<h4>Psicoanálisis</h4>
@@ -47,7 +48,7 @@
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img src="img/relajacion.jpg" class="d-block w-100" alt="...">
+						<img src="img/relajacion.jpg" class="d-block w-100" alt="imagen">
 						<div class="carousel-caption d-none d-md-block">
 							<div class="servi">
 							<h4>Relajacion - Meditación</h4>
@@ -56,7 +57,16 @@
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img src="img/complementarias.jpg" class="d-block w-100" alt="...">
+						<img src="img/consultorio.jpg" class="d-block w-100" alt="imagen">
+						<div class="carousel-caption d-none d-md-block">
+							<div class="servi">
+								<h4>Psicodiagnóstico – Evaluación Neurocognitiva</h5>
+									<p class="text-light">Una evaluación psicodiagnóstica consiste en el estudio de la personalidad, determinando las áreas afectivas, cognitiva y de relación y obtener así una visión completa del estado de salud mental y/o funcionamiento cerebral.</p>
+								</div>
+							</div>
+						</div>
+					<div class="carousel-item">
+						<img src="img/complementarias.jpg" class="d-block w-100" alt="imagen">
 						<div class="carousel-caption d-none d-md-block">
 							<div class="servi">
 							<h4>Actividades Complementarias</h4>
@@ -85,11 +95,11 @@
 			<div class="icon_box_title">Metodologia - Tratamiento</div>
 			<br>
 			<p>
-				<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapsettc" aria-expanded="false" aria-controls="collapsettc">
+				<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapse_ttc" aria-expanded="false" aria-controls="collapse_ttc">
 					Terapia Cognitivo Conductual
 				</button>
 			</p>
-			<div class="collapse" id="collapsettc">
+			<div class="collapse" id="collapse_ttc">
 				<div class="card card-body">
 					La Terapia Cognitivo-Conductual (TCC) es un nombre genérico que se refiere a conjunto de terapias que se generaron a partir de los aportes de Aaron Beck y Albert Ellis en la década de 1960. Estos autores observaron que no son los hechos en sí los que generan cómo nos sentimos, sino más bien cómo interpretamos estos hechos. De esta manera, un cambio en la manera en que nosotros pensamos conllevaría también una diferencia en el ánimo y en el comportamiento. Estos cambios se llevarán a cabo a partir de la TCC. De esta manera, desde la TCC se pondrá el foco en el pensamiento que resulta disfuncional para el consultante y se intentará, mediante preguntas y tareas, que él mismo pueda debatir con esos pensamientos y llegar a nuevas conclusiones. A su vez, también se realizan ejercicios prácticos, que conllevan un cambio en la emoción y el pensamiento.
 				</div>
@@ -99,11 +109,11 @@
 			</div>
 			<br>
 			<p>
-				<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapsepsico" aria-expanded="false" aria-controls="collapsepsico">
+				<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapse_psico" aria-expanded="false" aria-controls="collapse_psico">
 					Psicoanálisis
 				</button>
 			</p>
-			<div class="collapse" id="collapsepsico">
+			<div class="collapse" id="collapse_psico">
 				<div class="card card-body">
 					<div class="card">
 						<div class="card-body">
@@ -121,22 +131,22 @@
 			</div>
 			<br>
 			<p>
-				<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapsepedago" aria-expanded="false" aria-controls="collapsepedago">
+				<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapse_pedago" aria-expanded="false" aria-controls="collapse_pedago">
 					Psicopedagogía
 				</button>
 			</p>
-			<div class="collapse" id="collapsepedago">
+			<div class="collapse" id="collapse_pedago">
 				<div class="card card-body">
 					La psicopedagogía es una disciplina que partiendo de los aportes de la pedagogía  y la psicología interviene en los procesos de enseñanza aprendizaje, su campo de acción es amplio ,partiendo de las necesidades educativas de las personas, especialmente niños y jóvenes, cuando se presentan problemáticas que interfieren en dicho proceso en cualquiera de los niveles de enseñanza; el apoyo a las necesidades educativas especiales acompañando el proceso de integración, inclusión,  lo cual implica elaborar planes de adaptaciones curriculares partiendo del nivel cognitivo alcanzado ; en otros ámbitos generando estrategias de recuperación  de las personas con desfasaje cognitivo como secuela de accidentes. La finalidad es la formación integra de la persona, respetando sus particularidades.
 				</div>
 			</div>
 			<br>
 			<p>
-				<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseneuro" aria-expanded="false" aria-controls="collapseneuro">
+				<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapse_neuro" aria-expanded="false" aria-controls="collapse_neuro">
 					Neuropsicología
 				</button>
 			</p>
-			<div class="collapse" id="collapseneuro">
+			<div class="collapse" id="collapse_neuro">
 				<div class="card card-body">
 					<div class="card">
 						<div class="card-body">
@@ -163,80 +173,97 @@
 			<br>
 			<p>
 				<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapse_diag" aria-expanded="false" aria-controls="collapse_diag">
-					Psicodiagnóstico –Evaluación Neurocognitiva
+					Psicodiagnóstico – Evaluación Neurocognitiva
 				</button>
 			</p>
 			<div class="collapse" id="collapse_diag">
 				<div class="card card-body">
-					Una evaluación psicodiagnóstica consiste en el estudio de la personalidad, determinando las áreas afectivas, cognitiva y de relación y obtener así una visión completa del estado de salud mental y/o funcionamiento cerebral.
+					Una evaluación psicodiagnóstica consiste en el estudio de la personalidad, determinando las áreas afectivas, cognitiva y de relación y obtener así una visión completa del estado de salud mental y/o funcionamiento cerebral. La misma se realiza mediante una entrevista clínica y la administración del Test de acuerdo a lo que se precise evaluar.
 					<p>
 						<br>
-						<button class="btn btn-primary btn-success" type="button" data-toggle="collapse" data-target="#collapse_diag_1" aria-expanded="false" aria-controls="collapse_diag_1">
-							¿Cómo se realiza?
-						</button>
-					</p>
-					<div class="collapse" id="collapse_diag_1">
-						<div class="card card-body">
-							Mediante una entrevista clínica y la administración del Test de acuerdo a lo que se precise evaluar.
-							¿Cuándo es necesario realizar un psicodiagnóstico?
-							Cuando lo solicita algún médico, juez o institución, como la escuela, o para tramitar Licencias de conducir, apto psicológico, para otorgación de certificado de discapacidad, para cursar determinadas carreras universitarias.  Para determinar los objetivos de un tratamiento psicológico. O cualquier persona que por decisión propia quiere conocer su estado de salud mental o funcionamiento cerebral.
-							En el caso de niños y adolescentes es muy útil cuando presentan problemas de aprendizaje porque permite de manera rápida y precisa saber cuáles son las áreas afectadas que requieren intervenciones terapéuticas precisas ya sea, tratamiento psicopedagógico, estimulación cognitiva y orientar claramente a los profesionales e instituciones educativas y/o de salud que trabajan con el niño y/o joven.
-						</div>
-					</div>
-					<p>
-						<button class="btn btn-primary btn-success" type="button" data-toggle="collapse" data-target="#collapse_diag_1" aria-expanded="false" aria-controls="collapse_diag_1">
+						<button class="btn btn-success" type="button" data-toggle="collapse" data-target="#collapse_diag_2" aria-expanded="false" aria-controls="collapse_diag_2">
 							¿Cuánto tiempo lleva?
 						</button>
 					</p>
-					<div class="collapse" id="collapse_diag_1">
+					<div class="collapse" id="collapse_diag_2">
 						<div class="card card-body">
-							En general se realiza una entrevista clínica y otra entrevista en la que se administra la batería de test lo que puede insumir entre hora y medio y dos horas. Luego del término de una semana se realiza la entrega del informe.
+							En general se realiza una entrevista clínica y otra entrevista en la que se administra la batería de test lo que puede insumir entre hora y media y dos horas. Luego del término de una semana se realiza la entrega del informe.
 						</div>
 					</div>
 					<p>
-						<button class="btn btn-primary btn-success" type="button" data-toggle="collapse" data-target="#collapse_diag_1" aria-expanded="false" aria-controls="collapse_diag_1">
-							¿Qué tipo de evaluaciones existen?
+						<button class="btn btn-success" type="button" data-toggle="collapse" data-target="#collapse_diag_1" aria-expanded="false" aria-controls="collapse_diag_1">
+							¿Cuándo es necesario realizar un psicodiagnóstico?
 						</button>
 					</p>
 					<div class="collapse" id="collapse_diag_1">
 						<div class="card card-body">
-							Test que evalúan la personalidad: Lo que permiten establecer una gama de características como la madurez emocional, como se defiende frente a los conflictos, el manejo de la ansiedad, como es su forma de relacionarse con los demás, áreas cognitivas. (Test de Rorschach, MMPI2, otros test proyectivos).
-							Test que evalúan funcionamiento intelectual y evalúan organicidad: Son todos aquellos test que de acuerdo a la edad de la persona que se evalúa permiten conocer la presencia o no de déficit cognitivos. Mide la memoria, la atención, las funciones ejecutivas, la percepción, el lenguaje. Es decir, el funcionamiento cerebral. Se obtiene también el CI (coeficiente intelectual). (escala de inteligencia de Weschler para adultos, ENI para niños, Diversas escalas para medir Ansiedad, Depresión, etc.)
+							<ul style="list-style-type:disc;">
+								<li>Cuando lo solicita algún médico, juez o institución, como la escuela, o para tramitar Licencias de conducir, apto psicológico, para otorgación de certificado de discapacidad, para cursar determinadas carreras universitarias.</li>
+								<li>Para determinar los objetivos de un tratamiento psicológico.</li>
+								<li>O cualquier persona que por decisión propia quiere conocer su estado de salud mental o funcionamiento cerebral.</li>
+							</ul>
+							<p>En el caso de niños y adolescentes es muy útil cuando presentan problemas de aprendizaje porque permite de manera rápida y precisa saber cuáles son las áreas afectadas que requieren intervenciones terapéuticas precisas ya sea, tratamiento psicopedagógico, estimulación cognitiva y orientar claramente a los profesionales e instituciones educativas y/o de salud que trabajan con el niño y/o joven.</p>
+						</div>
+					</div>
+					<p>
+						<button class="btn btn-success" type="button" data-toggle="collapse" data-target="#collapse_diag_3" aria-expanded="false" aria-controls="collapse_diag_3">
+							¿Qué tipo de evaluaciones existen?
+						</button>
+					</p>
+					<div class="collapse" id="collapse_diag_3">
+						<div class="card card-body">
+							<p><strong>Test que evalúan la personalidad:</strong> Lo que permiten establecer una gama de características como la madurez emocional, como se defiende frente a los conflictos, el manejo de la ansiedad, como es su forma de relacionarse con los demás, áreas cognitivas. (Test de Rorschach, MMPI2, otros test proyectivos).</p>
+							<p><strong>Test que evalúan funcionamiento intelectual y evalúan organicidad:</strong> Son todos aquellos test que de acuerdo a la edad de la persona que se evalúa permiten conocer la presencia o no de déficit cognitivos. Mide la memoria, la atención, las funciones ejecutivas, la percepción, el lenguaje. Es decir, el funcionamiento cerebral. Se obtiene también el CI (coeficiente intelectual). (escala de inteligencia de Weschler para adultos, ENI para niños, Diversas escalas para medir Ansiedad, Depresión, etc.)</p>
 						</div>
 					</div>
 				</div>
 			</div>
 			<br>
 			<p>
-				<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapsecomple" aria-expanded="false" aria-controls="collapsecomple">
+				<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapse_comple" aria-expanded="false" aria-controls="collapse_comple">
 					Actividades Complementarias
 				</button>
 			</p>
-			<div class="collapse" id="collapsecomple">
+			<div class="collapse" id="collapse_comple">
 				<div class="card card-body">
 					<ul>
 						<li><i class="fas fa-child fa-2x child"></i>&nbsp;Talleres para niños y adultos</li>
 						<br>
 						<li><i class="fas fa-spa fa-2x spa"></i>&nbsp;Masajes terapéuticos</li>
 						<br>
-						<li><i class="fas fa-heart fa-2x heart"></i>&nbsp;Clases de Yoga, meditación, relajación, arteterapia</li>
+						<li><i class="fas fa-heart fa-2x heart"></i>&nbsp;Clases de Yoga, meditación, relajación, arteterapia, origami</li>
 						<br>
 						<li><i class="fas fa-comments fa-2x comments"></i>&nbsp;Charlas sobre distintas temáticas vinculados a la gestión emocional, prevención</li>
 					</ul>
 				</div>
 				<br>
 				<p>
-					<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapserelax" aria-expanded="false" aria-controls="collapserelax">
+					<button class="btn btn-info" type="button" data-toggle="collapse" data-target="#collapserelax" aria-expanded="false" aria-controls="collapserelax">
 						Relajación / Meditación
 					</button>
 				</p>
 				<div class="collapse" id="collapserelax">
 					<div class="card card-body">
-						La relajación y la meditación son técnicas que nos ayudan a transitar el camino hacia una re-conexión con nosotros mismos lo que conlleva innumerables beneficios. El ritmo acelerado de la vida actual, las preocupaciones económicas y laborales llevan a estados de ansiedad y estrés que tornan necesario el acercamiento de técnicas y herramientas provenientes de las más diversas disciplinas.</div>
+						La relajación y la meditación son técnicas que nos ayudan a transitar el camino hacia una re-conexión con nosotros mismos lo que conlleva innumerables beneficios. El ritmo acelerado de la vida actual, las preocupaciones económicas y laborales llevan a estados de ansiedad y estrés que tornan necesario el acercamiento de técnicas y herramientas provenientes de las más diversas disciplinas.
+					</div>
 				</div>
 				<br>
 				<p>
-					<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapsearte" aria-expanded="false" aria-controls="collapsearte">
+					<button class="btn btn-info" type="button" data-toggle="collapse" data-target="#collapse_gami" aria-expanded="false" aria-controls="collapse_gami">
+						Origami
+					</button>
+				</p>
+				<div class="collapse" id="collapse_gami">
+					<div class="card card-body">
+						El origami o papiroflexia es un arte japonés cuya técnica consiste en la creación de distintas figuras de animales, flores, cajas y muchísimas cosas más, a través de dobleces realizados en el papel.
+						Hoyar día el origami es considerado una técnica terapéutica y educativa.
+						Está comprobado que el origami ayuda al tratamiento desórdenes psíquicos o psicológicos, ya que estimula la concentración mediante el trabajo manual, por lo que se ha convertido en una herramienta eficaz en niños con hiperactividad.
+						Es una disciplina que desarrolla la creatividad y habilidades artísticas haciendo uso del papel como herramienta.
+						</div>
+				</div>
+				<br>
+				<p>
+					<button class="btn btn-info" type="button" data-toggle="collapse" data-target="#collapsearte" aria-expanded="false" aria-controls="collapsearte">
 						Arteterapia
 					</button>
 				</p>

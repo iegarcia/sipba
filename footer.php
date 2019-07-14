@@ -38,7 +38,7 @@
                     &nbsp;
                     <br>
                     <li><i class="fa fa-envelope icon_fonta" aria-hidden="true"></i>
-                      <a class="text-light" href="mailto:mail@dominio.com">mail@dominio.com</a></li>
+                      <a class="text-light" href="mailto:infosipba@gmail.com">infosipba@gmail.com</a></li>
                     </ul>
                   </div>
                 </div>

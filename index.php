@@ -9,7 +9,7 @@
 						<div class="col text-center">
 							<div class="section_title">Como Trabajamos</div>
 							<br>
-							<h5>Nuestro modelo de trabajo se divide en tres etapas a culminar donde la primera realizara un filtrado que determinara el problema a afrontar en las siguientes etapas. Las mismas son: Entrevista, Evaluación, Estabilización.</h5>
+							<h5>Nuestro modelo de trabajo se divide en tres etapas a culminar donde la primera realizara un filtrado que determinará el problema a afrontar en las siguientes etapas. Las mismas son: Entrevista, Evaluación, Estabilización.</h5>
 						</div>
 					</div>
 

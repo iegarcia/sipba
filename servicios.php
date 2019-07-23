@@ -92,7 +92,7 @@
 	<div class="col-lg-7">
 		<div class="tab_panels">
 			<br>
-			<div class="icon_box_title">Metodologia - Tratamiento</div>
+			<div class="icon_box_title">Metodología - Tratamiento</div>
 			<br>
 			<p>
 				<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapse_ttc" aria-expanded="false" aria-controls="collapse_ttc">

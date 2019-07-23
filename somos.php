@@ -33,7 +33,7 @@
 						<div class="section_subtitle text-dark text-center">Nuestra Mision</div>
 						<br>
 						<div class="about_text_highlight">
-							Brindar un servicio psicológico integral según la necesidad de cada persona. Con un abordaje interdisciplinario, lo que se diferencia de un simple suma  de profesionales. Asegurando a cada persona el hecho de ser atendido con alguien que esté altamente capacitado.</div>
+							Brindar un servicio psicológico integral según la necesidad de cada persona. Con un abordaje interdisciplinario, lo que se diferencia de una simple suma  de profesionales. Asegurando a cada persona el hecho de ser atendido con alguien que esté altamente capacitado.</div>
 						</div>
 						<div class="col-lg-4">
 							<br>

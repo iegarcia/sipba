@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <title>SIPBA</title>
+  <title>Servicio Integral de Psicologia Buenos Aires</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="title" content="Servicio Integral de Psicologia Buenos Aires (SIPBA)">
   <meta name="keywords" content="mental health, psychological treatment definition, psych treatment, therapeutic treatment, ">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap" rel="stylesheet">

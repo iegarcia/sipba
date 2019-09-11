@@ -22,6 +22,7 @@
               <ul class="d-flex flex-lg-row flex-column align-items-lg-center align-items-start justify-content-start">
                 <li><a href="https://www.instagram.com/psicolugano/"><i class="fab fa-instagram fa-3x"></i></a></li>
                 <li><a href="https://www.facebook.com/psicologia.sipba/"><i class="fab fa-facebook-square fa-3x"></i></a></li>
+                <li><a href="https://ijegdesign.wordpress.com/" target="_blank"><img class="ijeg" src="img/ijeg.png" alt="IJEG Design"></a></li>
               </ul>
             </nav>
 

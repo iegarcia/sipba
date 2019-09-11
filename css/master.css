@@ -46,16 +46,6 @@ a {
 	height: 91px;
 }
 
-/*
-.logo a {
-	line-height: 0.75;
-	color: #404040;
-	font-size: 24px;
-	font-weight: 700;
-	text-transform: uppercase;
-	}
-*/
-
 .header_top_nav ul li {
 	position: relative;
 }
@@ -82,17 +72,6 @@ a {
 	width: 100%;
 	overflow: hidden;
 }
-
-/* .home {
-width: 100%;
-}
-
-.home_container {
-position: absolute;
-top: 38%;
-left: 0;
-width: 100%;
-} */
 
 .info {
 	width: 100%;
@@ -306,4 +285,9 @@ width: 100%;
 	vertical-align: middle;
 	font-size: 20px;
 	color: #32c69a;
+}
+
+.ijeg {
+	width: 103.813px;
+	height: 59.0806px;
 }

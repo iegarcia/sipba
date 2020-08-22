@@ -1,94 +1,89 @@
-
 <?php require_once("head.php"); ?>
 
 <body>
 
 	<div class="super_container">
-	<div class="services mx-auto">
-		<div class="container">
-			<div class="row">
-				<div class="col text-center">
-			</div>
-			<div class="row icon_boxes_row">
-			<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
-				<ol class="carousel-indicators">
-					<li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-					<li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-					<li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-					<li data-target="#carouselExampleCaptions" data-slide-to="4"></li>
-					<li data-target="#carouselExampleCaptions" data-slide-to="5"></li>
-					<li data-target="#carouselExampleCaptions" data-slide-to="6"></li>
-				</ol>
-				<div class="carousel-inner">
-					<div class="carousel-item active">
-						<img src="img/computadora.jpg" class="d-block w-100" alt="imagen">
-						<div class="carousel-caption d-none d-md-block">
-							<div class="servi">
-							<h4>Psicopedagogía</h5>
-							<p class="text-light" >La psicopedagogía es una disciplina que partiendo de los aportes de la pedagogía  y la psicología interviene en los procesos de enseñanza aprendizaje, su campo de acción es amplio ,partiendo de las necesidades educativas de las personas.</p>
-						</div>
-						</div>
-					</div>
-					<div class="carousel-item">
-						<img src="img/neuro.jpg" class="d-block w-100" alt="imagen">
-						<div class="carousel-caption d-none d-md-block">
-							<div class="servi">
-							<h4>Neuropsicología</h4>
-							<p class="text-light">Realizamos Evaluación Neuropsicológicas que es una descripción detallada y exacta de las funciones cognitivas y afectivas, una verificación del déficit funcional, la evaluación de los recursos personales del paciente para la rehabilitación y la valoración de los cambios afectivos y cognitivos durante el curso de la enfermedad.</p>
-						</div>
-						</div>
-					</div>
-					<div class="carousel-item">
-						<img src="img/psicologia.jpg" class="d-block w-100" alt="imagen">
-						<div class="carousel-caption d-none d-md-block">
-							<div class="servi">
-							<h4>Psicoanálisis</h4>
-							<p class="text-light">En tiempos donde todo es inmediato y efímero a veces cuesta poder darse tiempo a uno mismo, la práctica psicoanalítica promueve esa posibilidad.</p>
-						</div>
-						</div>
-					</div>
-					<div class="carousel-item">
-						<img src="img/relajacion.jpg" class="d-block w-100" alt="imagen">
-						<div class="carousel-caption d-none d-md-block">
-							<div class="servi">
-							<h4>Relajacion - Meditación</h4>
-							<p class="text-light">La relajación y la meditación son técnicas que nos ayudan a transitar el camino hacia una re-conexión con nosotros mismos lo que conlleva innumerables beneficios.</p>
-						</div>
-						</div>
-					</div>
-					<div class="carousel-item">
-						<img src="img/consultorio.jpg" class="d-block w-100" alt="imagen">
-						<div class="carousel-caption d-none d-md-block">
-							<div class="servi">
-								<h4>Psicodiagnóstico – Evaluación Neurocognitiva</h5>
-									<p class="text-light">Una evaluación psicodiagnóstica consiste en el estudio de la personalidad, determinando las áreas afectivas, cognitiva y de relación y obtener así una visión completa del estado de salud mental y/o funcionamiento cerebral.</p>
+		<div class="services">
+			<div class="container">
+				<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+						<li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+						<li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+						<li data-target="#carouselExampleCaptions" data-slide-to="4"></li>
+						<li data-target="#carouselExampleCaptions" data-slide-to="5"></li>
+						<li data-target="#carouselExampleCaptions" data-slide-to="6"></li>
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img src="img/computadora.jpg" class="d-block w-100" alt="imagen">
+							<div class="carousel-caption d-none d-md-block">
+								<div class="servi">
+									<h4>Psicopedagogía</h5>
+										<p class="text-light">La psicopedagogía es una disciplina que partiendo de los aportes de la pedagogía y la psicología interviene en los procesos de enseñanza aprendizaje, su campo de acción es amplio ,partiendo de las necesidades educativas de las personas.</p>
 								</div>
 							</div>
 						</div>
-					<div class="carousel-item">
-						<img src="img/complementarias.jpg" class="d-block w-100" alt="imagen">
-						<div class="carousel-caption d-none d-md-block">
-							<div class="servi">
-							<h4>Actividades Complementarias</h4>
-							<p class="text-light" >Actividades que incluyen espacios de información, métodos de relajación, liberación de estrés y talleres.</p>
+						<div class="carousel-item">
+							<img src="img/neuro.jpg" class="d-block w-100" alt="imagen">
+							<div class="carousel-caption d-none d-md-block">
+								<div class="servi">
+									<h4>Neuropsicología</h4>
+									<p class="text-light">Realizamos Evaluación Neuropsicológicas que es una descripción detallada y exacta de las funciones cognitivas y afectivas, una verificación del déficit funcional, la evaluación de los recursos personales del paciente para la rehabilitación y la valoración de los cambios afectivos y cognitivos durante el curso de la enfermedad.</p>
+								</div>
+							</div>
 						</div>
+						<div class="carousel-item">
+							<img src="img/psicologia.jpg" class="d-block w-100" alt="imagen">
+							<div class="carousel-caption d-none d-md-block">
+								<div class="servi">
+									<h4>Psicoanálisis</h4>
+									<p class="text-light">En tiempos donde todo es inmediato y efímero a veces cuesta poder darse tiempo a uno mismo, la práctica psicoanalítica promueve esa posibilidad.</p>
+								</div>
+							</div>
+						</div>
+						<div class="carousel-item">
+							<img src="img/relajacion.jpg" class="d-block w-100" alt="imagen">
+							<div class="carousel-caption d-none d-md-block">
+								<div class="servi">
+									<h4>Relajacion - Meditación</h4>
+									<p class="text-light">La relajación y la meditación son técnicas que nos ayudan a transitar el camino hacia una re-conexión con nosotros mismos lo que conlleva innumerables beneficios.</p>
+								</div>
+							</div>
+						</div>
+						<div class="carousel-item">
+							<img src="img/consultorio.jpg" class="d-block w-100" alt="imagen">
+							<div class="carousel-caption d-none d-md-block">
+								<div class="servi">
+									<h4>Psicodiagnóstico – Evaluación Neurocognitiva</h5>
+										<p class="text-light">Una evaluación psicodiagnóstica consiste en el estudio de la personalidad, determinando las áreas afectivas, cognitiva y de relación y obtener así una visión completa del estado de salud mental y/o funcionamiento cerebral.</p>
+								</div>
+							</div>
+						</div>
+						<div class="carousel-item">
+							<img src="img/complementarias.jpg" class="d-block w-100" alt="imagen">
+							<div class="carousel-caption d-none d-md-block">
+								<div class="servi">
+									<h4>Actividades Complementarias</h4>
+									<p class="text-light">Actividades que incluyen espacios de información, métodos de relajación, liberación de estrés y talleres.</p>
+								</div>
+							</div>
 						</div>
 					</div>
+					<a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+						<span class="carousel-control-next-icon" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+					</a>
 				</div>
-				<a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-				</a>
-				<a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-				</a>
 			</div>
 		</div>
 	</div>
-</div>
-</div>
-<hr class="alert alert-success">
+	</div>
+	<hr class="alert alert-success">
 	<div class="col-lg-7">
 		<div class="tab_panels">
 			<br>
@@ -123,10 +118,10 @@
 							</blockquote>
 						</div>
 					</div>
-					<br>
+
 					<p>En tiempos donde todo es inmediato y efímero a veces cuesta poder darse tiempo a uno mismo, la práctica psicoanalítica promueve esa posibilidad.</p>
 					<p>Qué mejor que tratar de hacer la diferencia y poder darse su propio espacio y momentos para conocerse con su potencial y aquello que le angustia.</p>
-					<p>Detenerse a escucharse  es un acto de valentía que en esta época no todos se atreven a hacer, sin embargo el analista ofrece ese espacio en el que el propio sujeto puede encontrarse con su inconsciente.</p>
+					<p>Detenerse a escucharse es un acto de valentía que en esta época no todos se atreven a hacer, sin embargo el analista ofrece ese espacio en el que el propio sujeto puede encontrarse con su inconsciente.</p>
 				</div>
 			</div>
 			<br>
@@ -137,7 +132,7 @@
 			</p>
 			<div class="collapse" id="collapse_pedago">
 				<div class="card card-body">
-					La psicopedagogía es una disciplina que partiendo de los aportes de la pedagogía  y la psicología interviene en los procesos de enseñanza aprendizaje, su campo de acción es amplio ,partiendo de las necesidades educativas de las personas, especialmente niños y jóvenes, cuando se presentan problemáticas que interfieren en dicho proceso en cualquiera de los niveles de enseñanza; el apoyo a las necesidades educativas especiales acompañando el proceso de integración, inclusión,  lo cual implica elaborar planes de adaptaciones curriculares partiendo del nivel cognitivo alcanzado ; en otros ámbitos generando estrategias de recuperación  de las personas con desfasaje cognitivo como secuela de accidentes. La finalidad es la formación integra de la persona, respetando sus particularidades.
+					La psicopedagogía es una disciplina que partiendo de los aportes de la pedagogía y la psicología interviene en los procesos de enseñanza aprendizaje, su campo de acción es amplio ,partiendo de las necesidades educativas de las personas, especialmente niños y jóvenes, cuando se presentan problemáticas que interfieren en dicho proceso en cualquiera de los niveles de enseñanza; el apoyo a las necesidades educativas especiales acompañando el proceso de integración, inclusión, lo cual implica elaborar planes de adaptaciones curriculares partiendo del nivel cognitivo alcanzado ; en otros ámbitos generando estrategias de recuperación de las personas con desfasaje cognitivo como secuela de accidentes. La finalidad es la formación integra de la persona, respetando sus particularidades.
 				</div>
 			</div>
 			<br>
@@ -259,7 +254,7 @@
 						Hoyar día el origami es considerado una técnica terapéutica y educativa.
 						Está comprobado que el origami ayuda al tratamiento desórdenes psíquicos o psicológicos, ya que estimula la concentración mediante el trabajo manual, por lo que se ha convertido en una herramienta eficaz en niños con hiperactividad.
 						Es una disciplina que desarrolla la creatividad y habilidades artísticas haciendo uso del papel como herramienta.
-						</div>
+					</div>
 				</div>
 				<br>
 				<p>
@@ -275,6 +270,5 @@
 			</div>
 		</div>
 	</div>
-</div>
 
 	<?php require_once("footer.php"); ?>

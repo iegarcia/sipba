@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="es">
+<html hreflang="es">
+
 <head>
   <title>Servicio Integral de Psicologia Buenos Aires</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="title" content="Servicio Integral de Psicologia Buenos Aires (SIPBA)">
-  <meta name="keywords" content="mental health, psychological treatment definition, psych treatment, therapeutic treatment, ">
+  <meta name="keywords" content="salud mental, terapia, psicologo, psicologa, tratamiento psicologico, tcc, analisis, pedagogia, diagnosticos, cognitivo">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -44,7 +44,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link text-light" href="index.php">Home</a>
+            <a class="nav-link text-light" href="index.php" rel="canonical">Home</a>
           </li>
           <li class="nav-item">
             <a class="nav-link text-light" href="somos.php">Quienes Somos</a>

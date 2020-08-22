@@ -4,13 +4,16 @@
 	<div class="super_container">
 		<div class="info">
 			<div class="services">
+				<div class="d-flex justify-content-center">
+					<h1>Servicio Integral de Psicología Buenos Aires</h1>
+				</div>
+				<br>
+				<br>
 				<div class="container">
-					<div class="row">
-						<div class="col text-center">
-							<div class="section_title">Como Trabajamos</div>
-							<br>
-							<h5>Nuestro modelo de trabajo se divide en tres etapas a culminar donde la primera realizara un filtrado que determinará el problema a afrontar en las siguientes etapas. Las mismas son: Entrevista, Evaluación, Estabilización.</h5>
-						</div>
+					<div class="text-center">
+						<div class="section_title">Como Trabajamos</div>
+						<br>
+						<h5>Nuestro modelo de trabajo se divide en tres etapas a culminar donde la primera realizara un filtrado que determinará el problema a afrontar en las siguientes etapas. Las mismas son: Entrevista, Evaluación, Estabilización.</h5>
 					</div>
 
 					<div class="row icon_boxes_row">
@@ -45,7 +48,7 @@
 									</div>
 									<div class="icon_box_title">Estabilización</div>
 								</div>
-								<div class="icon_box_text">En este segundo nivel, nos orientamos a la recuperación del equilibrio, mejora del bienestar y la calidad de vida. Para esto sugerimos el tratamiento más adecuado que intervenga directamente sobre el problema,  la actividad emocional, neurofisiológica, vincular regulándola y mejorándola. Los tratamientos se diseñan de acuerdo a los objetivos que se  proponen  junto a la persona que realiza la consulta  y con evaluación periódica de los avances esperados.</div>
+								<div class="icon_box_text">En este segundo nivel, nos orientamos a la recuperación del equilibrio, mejora del bienestar y la calidad de vida. Para esto sugerimos el tratamiento más adecuado que intervenga directamente sobre el problema, la actividad emocional, neurofisiológica, vincular regulándola y mejorándola. Los tratamientos se diseñan de acuerdo a los objetivos que se proponen junto a la persona que realiza la consulta y con evaluación periódica de los avances esperados.</div>
 							</div>
 						</div>
 					</div>
@@ -90,7 +93,7 @@
 								<div class="icon_box_icon"><i class="fas fa-clipboard-list fa-3x icon_fonta"></i></div>
 								<div class="icon_box_title">Psicopedagogía:</div>
 							</div>
-							<div class="icon_box_text">La psicopedagogía es una disciplina que partiendo de los aportes de la pedagogía  y la psicología interviene en los procesos de enseñanza aprendizaje, su campo de acción es amplio ,partiendo de las necesidades educativas de las personas.</div>
+							<div class="icon_box_text">La psicopedagogía es una disciplina que partiendo de los aportes de la pedagogía y la psicología interviene en los procesos de enseñanza aprendizaje, su campo de acción es amplio ,partiendo de las necesidades educativas de las personas.</div>
 						</div>
 					</div>
 
@@ -128,4 +131,4 @@
 			</div>
 		</div>
 
-<?php require_once("footer.php"); ?>
+		<?php require_once("footer.php"); ?>
